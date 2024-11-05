@@ -1,7 +1,7 @@
 
 <?php 
 require_once ('config.php'); // This is where the username and password are currently stored (hardcoded in variables)
-require_once('../template/loginHeader.php');//different for log in page to avoid an infinite loop 
+require_once('../templates/loginHeader.php');//different for log in page to avoid an infinite loop 
 ?>
 
 <!DOCTYPE html>
